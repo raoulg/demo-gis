@@ -1,2 +1,2 @@
 # Welkom
-Dit is een readm
+Dit is een readme!
